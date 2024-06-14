@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+## Curriculum Vitae
+Please find a copy of my CV [here]({{ site.url }}/CV.pdf).
 
 ## Publications List
 
